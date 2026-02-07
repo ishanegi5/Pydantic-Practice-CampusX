@@ -67,7 +67,8 @@ Run an example:
 
 python filename.py
 
-🙏 Acknowledgment
+
+##🙏 Acknowledgment
 
 Thanks to CampusX for their clean, beginner-friendly Pydantic explanation.
 📌 Next Steps
@@ -81,5 +82,5 @@ Implementing request/response models
 Real backend projects
 
 Stay tuned for updates!
-```bash
+
 python --version
