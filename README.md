@@ -64,8 +64,9 @@ This repository serves as:
 
 Make sure Python is installed:
 Run an example:
-
 python filename.py
+
+
 
 
 🙏 Acknowledgment
@@ -86,4 +87,4 @@ Real backend projects
 
 Stay tuned for updates!
 
-python --version
+
