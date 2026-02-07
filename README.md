@@ -68,9 +68,12 @@ Run an example:
 python filename.py
 
 
-##🙏 Acknowledgment
+🙏 Acknowledgment
 
 Thanks to CampusX for their clean, beginner-friendly Pydantic explanation.
+
+
+
 📌 Next Steps
 
 I will soon move from Pydantic practice to:
